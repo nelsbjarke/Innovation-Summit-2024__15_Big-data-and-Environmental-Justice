@@ -11,6 +11,8 @@ Welcome to the **[Your Team Name]** repository, an integral part of ESIIL and Ea
 
 ## Documentation
 - Access detailed documentation on our [GitHub Pages site](https://your-gh-pages-url/).
+  
+![DiffFundVsShare](https://github.com/nelsbjarke/Innovation-Summit-2024__15_Big-data-and-Environmental-Justice/assets/62571397/29b2943e-b503-4ddb-b712-52660ba50935)
 
 
 ## Group Members
